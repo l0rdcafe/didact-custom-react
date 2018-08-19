@@ -1,0 +1,3 @@
+{
+    "presets": ["latest", "env", "react", "es2017"]
+}

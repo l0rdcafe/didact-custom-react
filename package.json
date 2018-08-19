@@ -1,0 +1,20 @@
+{
+  "name": "didact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "babel main.js --out-file compiled.js"
+  },
+  "keywords": [],
+  "author": "Ismail Arafa <me@l0rdcafe.com> (http://www.l0rdcafe.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2017": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
